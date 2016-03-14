@@ -16,7 +16,7 @@ Platform Manager (October 2013 – Present)
 	 - Venture database / CRM API integration
 	 - Startup taxonomy remapping application
  - Implemented dealflow software and processes 
- - Different levels of design / build / maintenance on Upfront website and marketing sites (<a href="http://insights.upfront.com/" target="_blank">1</a> <a href="http://summit2016.upfront.com/" target="_blank">2</a> <a href="http://summit2015.upfront.com/" target="_blank">3</a> <a href="bothsidesofthetable.com" target="_blank">4</a>)
+ - Different levels of design / build / maintenance on Upfront website and marketing sites (<a href="http://insights.upfront.com/" target="_blank">1</a> <a href="http://summit2016.upfront.com/" target="_blank">2</a> <a href="http://summit2015.upfront.com/" target="_blank">3</a> <a href="http://bothsidesofthetable.com" target="_blank">4</a>)
  - Built and managed email marketing campaigns and lists 
 
 ### <a href="http://launchpad.la" target="_blank">Launchpad LA</a>
