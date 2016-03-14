@@ -26,12 +26,12 @@ Director of Operations (January 2012 - October 2013)
 - Developed processes to efficiently manage mentors, investors, and company dealflow. Dealflow process detailed <a href="https://zapier.com/blog/applicant-tracking-system/" target="_blank">here</a> 
 - Recruited and managed technical and MBA associates
 
-#### Syska Hennessy Group 
+#### <a href="http://syska.com" target="_blank">Syska Hennessy Group</a>
 Mechanical Engineer (April 2011 – January 2012)
 
 - Green building design and building load analysis using computer aided design platforms and computational fluid dynamics
 
-#### MSC Software
+#### <a href="http://mscsoftware.com" target="_blank">MSC Software</a>
 Engineering Intern (June 2009 – April 2011)
 
 - Finite element modeling in Patran and SimXpert, finite element analysis in Nastran and Marc
@@ -45,7 +45,7 @@ Engineering Intern (June 2009 – April 2011)
 
 ## Projects / Freelance / Hobbies
 - Designed / PM'd a Pinterest Keyboard with a friend. Submitting to App Store soon (<a href="https://quip.com/wBAaA8msyPoN" target="_blank">Spec</a> / <a href="https://scene.zeplin.io/project/56d88a9e32057a3d4cde4666" target="_blank">Design</a>)
-- Facebook app marketing for Vidme
+- Facebook app marketing for <a href="http://vid.me" target="_blank">Vidme</a>
 	- <a href="https://www.dropbox.com/s/nfa9mv8ocof6q8x/Screenshot%202016-03-14%2010.54.40.png?dl=0" target="_blank">A/B testing</a> against creative, audience, interests, device
 	- <a href="https://www.dropbox.com/s/tzvbh0e07j2br87/Screenshot%202016-03-14%2010.47.35.png?dl=0" target="_blank">Reduced CPI</a> from a $3-$4 to ~$1 over course of 2 months 
 - My favorite <a href="https://www.strava.com/activities/369745043" target="_blank">bike ride</a>
