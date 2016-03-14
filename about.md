@@ -49,4 +49,4 @@ Engineering Intern (June 2009 – April 2011)
 	- <a href="https://www.dropbox.com/s/nfa9mv8ocof6q8x/Screenshot%202016-03-14%2010.54.40.png?dl=0" target="_blank">A/B testing</a> against creative, audience, interests, device
 	- <a href="https://www.dropbox.com/s/tzvbh0e07j2br87/Screenshot%202016-03-14%2010.47.35.png?dl=0" target="_blank">Reduced CPI</a> from a $3-$4 to ~$1 over course of 2 months 
 - My favorite <a href="https://www.strava.com/activities/369745043" target="_blank">bike ride</a>
-- My favorite goal
+- My favorite <a href="https://www.youtube.com/watch?v=NmQfhkGPrM8" target="_blank">goal</a>
