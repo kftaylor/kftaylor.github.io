@@ -44,7 +44,7 @@ Engineering Intern (June 2009 – April 2011)
 - Minor, Biomedical Engineering
 
 ## Projects / Freelance / Hobbies
-- Designed / PM'd a Pinterest Keyboard with a friend. Submitting to App Store soon (<a href="https://quip.com/wBAaA8msyPoN" target="_blank">Spec</a> / <a href="https://scene.zeplin.io/project/56d88a9e32057a3d4cde4666" target="_blank">Design</a>)
+- Designed / PM'd a Pinterest Keyboard. Submitting to App Store soon (<a href="https://quip.com/wBAaA8msyPoN" target="_blank">Spec</a> / <a href="https://scene.zeplin.io/project/56d88a9e32057a3d4cde4666" target="_blank">Design</a>)
 - Facebook app marketing for <a href="http://vid.me" target="_blank">Vidme</a>
 	- <a href="https://www.dropbox.com/s/nfa9mv8ocof6q8x/Screenshot%202016-03-14%2010.54.40.png?dl=0" target="_blank">A/B testing</a> against creative, audience, interests, device
 	- <a href="https://www.dropbox.com/s/tzvbh0e07j2br87/Screenshot%202016-03-14%2010.47.35.png?dl=0" target="_blank">Reduced CPI</a> from a $3-$4 to ~$1 over course of 2 months 
