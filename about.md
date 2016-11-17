@@ -22,10 +22,10 @@ Since I’m assuming you don’t have a Flic lying around the office, here’s a
 
 This is a project I worked on earlier this year. I shipped to the [App Store](http://pinkyapp.com){:target="_blank"} in June. I led all aspects of writing requirements and wireframing. I worked with a designer to polish and a developer to build.
 
-I used [Quip](https://quip.com/wBAaA8msyPoN){:target="_blank"} to write initial requirements to share and get feedback. I used [Invision App](https://invis.io/M957BYD8V){:target="_blank"} for sharing clickthrough screens and UX. I used [Sketch](https://sketch.cloud/s/RWOy/p/onboarding){:target="_blank"} to iterate on high fidelity designs. I used [Zeplin](https://scene.zeplin.io/project/56d88a9e32057a3d4cde4666){:target="_blank"} to share layered Sketch files with developer.
+I used [Quip](https://quip.com/wBAaA8msyPoN){:target="_blank"} to write initial requirements to share and get feedback. I used [Invision App](https://invis.io/M957BYD8V){:target="_blank"} for sharing screens and experience. I used [Sketch](https://sketch.cloud/s/RWOy/p/onboarding){:target="_blank"} to iterate on high fidelity designs. I used [Zeplin](https://scene.zeplin.io/project/56d88a9e32057a3d4cde4666){:target="_blank"} to share layered Sketch files with developer.
 
 ![]({{ site.baseurl }}/forestryio/images/Screenshot%202016-11-16%2023.36.55.png)
 
 ### Outcome
 
-The project cost about $2,000 total. It has $0 recurring cost. I've been able to generate some organic downloads, but I knew going in that generating downloads in the App Store would be very expensive and time-consuming. It was a great learning experience getting an app in the App Store and it continues to be a utility that I and a few friends can use 😀
+The project cost about $2,000 in total. It has $0 recurring cost. I've been able to generate some organic downloads, but I knew going in that generating downloads in the App Store would be very expensive and time-consuming. It was a great learning experience getting an app in the App Store and it continues to be a utility that I and a few friends can use 😀
