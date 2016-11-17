@@ -28,12 +28,12 @@ I used [Quip](https://quip.com/wBAaA8msyPoN){:target="_blank"} to write initial 
 
 ### Outcome
 
-The project cost about $2,000 in total. It has $0 recurring cost. I've been able to generate some organic downloads, but I knew going in that generating downloads in the App Store would be very expensive and time-consuming. It was a great learning experience getting an app in the App Store and it continues to be a utility that I and a few friends can use 😀
+The project cost about $2,000 in total. It has $0 recurring cost. I've been able to generate some organic downloads, but I knew going in that generating downloads in the App Store would be very expensive and time-consuming. It was a great learning experience getting an app in the App Store and it continues to be a utility that I and a few friends can use 😀  
   
-  
+
 * * *
   
-  
+
 ## Optional A
 
 Last week I spoke with our [Connectifier](https://www.connectifier.com) account manager as well as our team about continuing with their service. Our yearly contract was coming up for renewal and they were recently acquired by LinkedIn. I was made aware that their pricing structure was changing, and after this year the service would require a LinkedIn Recruiter plan.
