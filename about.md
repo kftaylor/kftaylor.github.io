@@ -5,8 +5,8 @@ permalink: "/q/"
 ---
 ## <span style="font-weight: normal;">1\. IFTTT Recipe 📱</span>
 
-1.  [Click Flic button](https://ifttt.com/applets/44303349d-if-you-click-flic-then-share-location-in-sms){:target="_blank"} - sends text with location
-2.  [Hold Flic button](https://ifttt.com/applets/44350944d-if-you-hold-flic-then-send-an-alert-sms-with-location){:target="_blank"} - sends alert text with location
+1.  [Click Flic button](https://ifttt.com/applets/44303349d-if-you-click-flic-then-share-location-in-sms){:target="_blank"} - sends text with location 🌎
+2.  [Hold Flic button](https://ifttt.com/applets/44350944d-if-you-hold-flic-then-send-an-alert-sms-with-location){:target="_blank"} - sends alert text with location 🆘
 
 ### <span style="font-weight: normal;">Description</span>
 
