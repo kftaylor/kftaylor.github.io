@@ -17,3 +17,5 @@ Solution: A wearable device that senses falls, and allows user to press a button
 To make a quick MVP of the core button feature, I am using [Flic](flic.io), a button that pairs via Bluetooth to an android or ios device and connects with many internet services. I was going to CAD model a watch strap backing for Flic so it could be worn as a watch, but discovered [Shapeways](http://shpws.me/LeuU) already had one! I bought a cheap watch strap from [Amazon](https://www.amazon.com/gp/product/B017CK4PAQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1), and now I have an MVP!
 
 Since I’m assuming you don’t have a Flic lying around the office, here’s a video of it in action.
+
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/GU0SDtaixnU" frameborder="0" allowfullscreen=""></iframe>
