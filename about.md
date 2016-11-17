@@ -42,7 +42,7 @@ I decided with our COO not to renew based on a few factors I uncovered:
 
 *   Understanding how heavily team relied on service, could they stop-gap with other service(s)?
 
-*   Instability of company. Recently acquired and were straightforward about requiring an expensive LinkedIn Recruiter subscription next year. Buying into a service even deeper with the knowledge of it changing within a year didn't make sense
+*   Instability of company. They were recently acquired and were up front about requiring an expensive LinkedIn Recruiter subscription next year. Buying into a service even deeper with the knowledge of it changing within a year didn't make sense
 
 ## Optional B
 
