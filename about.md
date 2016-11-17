@@ -28,11 +28,9 @@ I used [Quip](https://quip.com/wBAaA8msyPoN){:target="_blank"} to write initial 
 
 ### Outcome
 
-The project cost about $2,000 in total. It has $0 recurring cost. I've been able to generate some organic downloads, but I knew going in that generating downloads in the App Store would be very expensive and time-consuming. It was a great learning experience getting an app in the App Store and it continues to be a utility that I and a few friends can use 😀  
-  
+The project cost about $2,000 in total. It has $0 recurring cost. I've been able to generate some organic downloads, but I knew going in that generating downloads in the App Store would be very expensive and time-consuming. It was a great learning experience getting an app in the App Store and it continues to be a utility that I and a few friends can use 😀
 
 * * *
-  
 
 ## Optional A
 
