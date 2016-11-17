@@ -3,7 +3,7 @@ title: Managed By Q Assignment
 layout: page
 permalink: "/q/"
 ---
-## **1\. IFTTT Recipe**
+## <span style="font-weight: normal;">1\. IFTTT Recipe</span>
 
 1.  [Click Flic button](https://ifttt.com/applets/44303349d-if-you-click-flic-then-share-location-in-sms){:target="_blank"} - sends text with location
 2.  [Hold Flic button](https://ifttt.com/applets/44350944d-if-you-hold-flic-then-send-an-alert-sms-with-location){:target="_blank"} - sends alert text with location
@@ -18,11 +18,11 @@ To make a quick MVP of the core button feature, I am using [Flic](http://flic.io
 
 Since I’m assuming you don’t have a Flic lying around the office, here’s a video of it in action.
 
-## **2\. Pinterest Keyboard Project**
+## <span style="font-weight: normal;">2\. Pinterest Keyboard Project</span>
 
-This is a project I worked on earlier this year. Shipped to the [App Store](http://pinkyapp.com) in June. I led all aspects of writing requirements and wireframing, then I worked with a designer and developer to polish and build. 
+This is a project I worked on earlier this year. Shipped to the [App Store](http://pinkyapp.com){:target="_blank"} in June. I led all aspects of writing requirements and wireframing, then I worked with a designer and developer to polish and build.
 
-I used [Quip](https://quip.com/wBAaA8msyPoN) to write initial requirements to share and get feedback. I used [Invision App](https://invis.io/M957BYD8V) for sharing clickthrough screens and UX. I used [Sketch](https://sketch.cloud/s/RWOy/p/onboarding) to iterate on high fidelity designs. I used [Zeplin](https://scene.zeplin.io/project/56d88a9e32057a3d4cde4666) to share layered Sketch files with developer. 
+I used [Quip](https://quip.com/wBAaA8msyPoN){:target="_blank"} to write initial requirements to share and get feedback. I used [Invision App](https://invis.io/M957BYD8V){:target="_blank"} for sharing clickthrough screens and UX. I used [Sketch](https://sketch.cloud/s/RWOy/p/onboarding){:target="_blank"} to iterate on high fidelity designs. I used [Zeplin](https://scene.zeplin.io/project/56d88a9e32057a3d4cde4666){:target="_blank"} to share layered Sketch files with developer.
 
 ### Outcome:
 
