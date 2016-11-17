@@ -30,20 +30,19 @@ I used [Quip](https://quip.com/wBAaA8msyPoN){:target="_blank"} to write initial 
 
 The project cost about $2,000 in total. It has $0 recurring cost. I've been able to generate some organic downloads, but I knew going in that generating downloads in the App Store would be very expensive and time-consuming. It was a great learning experience getting an app in the App Store and it continues to be a utility that I and a few friends can use 😀
 
+
 * * *
+
 
 ## Optional A
 
-Last week I spoke with our [Connectifier](https://www.connectifier.com) account manager as well as our team about continuing with their service. Our yearly contract was coming up for renewal and they were recently acquired by LinkedIn. I was made aware that their pricing structure was changing, and after this year the service would require a LinkedIn Recruiter plan.
+Last week I spoke with our [Connectifier](https://www.connectifier.com){:target="_blank"} account manager as well as our team about continuing with their service. Our yearly contract was coming up for renewal and they were recently acquired by LinkedIn. I was made aware that their pricing structure was changing, and after this year the service would require a LinkedIn Recruiter plan.
 
 I decided with our COO not to renew based on a few factors I uncovered:
 
 *   Increase in pricing
-
 *   Understanding our current usage - anecdotally from team, and actual usage metrics from account rep
-
 *   Understanding how heavily team relied on service, could they stop-gap with other service(s)?
-
 *   Instability of company. They were recently acquired and were up front about requiring an expensive LinkedIn Recruiter subscription next year. Buying into a service even deeper with the knowledge of it changing within a year didn't make sense
 
 ## Optional B
