@@ -14,6 +14,6 @@ A project I’ve been thinking about addresses a problem that I’ve faced with 
 
 Solution: A wearable device that senses falls, and allows user to press a button to send a pre-defined text to family / friends.
 
-To make a quick MVP of the core button feature, I am using [Flic](flic.io){:target="_blank"}, a button that pairs via Bluetooth to an android or ios device and connects with many internet services. I was going to CAD model a watch strap backing for Flic so it could be worn as a watch, but discovered [Shapeways](http://shpws.me/LeuU){:target="_blank"} already had one! I bought a cheap watch strap from [Amazon](https://www.amazon.com/gp/product/B017CK4PAQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1){:target="_blank"}, and now I have an MVP!
+To make a quick MVP of the core button feature, I am using [Flic](http://flic.io){:target="_blank"}, a button that pairs via Bluetooth to an android or ios device and connects with many internet services. I was going to CAD model a watch strap backing for Flic so it could be worn as a watch, but discovered [Shapeways](http://shpws.me/LeuU){:target="_blank"} already had one! I bought a cheap watch strap from [Amazon](https://www.amazon.com/gp/product/B017CK4PAQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1){:target="_blank"}, and now I have an MVP!
 
 Since I’m assuming you don’t have a Flic lying around the office, here’s a video of it in action.
