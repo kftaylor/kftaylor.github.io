@@ -1,52 +1,19 @@
 ---
+title: Managed By Q Assignment
 layout: page
-title: About
-permalink: /about/
+permalink: "/q/"
 ---
-First platform hire at Upfront Ventures - the largest early stage venture fund in Southern California. I <a href="http://twitter.com/kftaylor" target="_blank">tweet</a> about things that I'm interested in or make me laugh.
+**1. IFTTT Recipe**
 
-## Experience
+1.  [Click Flic button](https://ifttt.com/applets/44303349d-if-you-click-flic-then-share-location-in-sms), sends text with location
+2.  <span style="letter-spacing: 0.01em;">[Hold Flic button](https://ifttt.com/applets/44350944d-if-you-hold-flic-then-send-an-alert-sms-with-location), sends alert text with location</span>  
 
-#### <a href="http://upfront.com/" target="_blank">Upfront Ventures</a>
-Platform Manager (October 2013 – Present)
+**Description** –
 
- - Managed several product build outs from initial scoping through development
-	 - <a href="https://scene.zeplin.io/project/56de1dda3cf13ff4731e3f2f" target="_blank">Portfolio Tracking Application</a>
-	 - Venture database / CRM API integration
-	 - Startup taxonomy remapping application
- - Implemented dealflow software and processes 
- - Different levels of design / build / maintenance on Upfront website and marketing sites (<a href="http://insights.upfront.com/" target="_blank">1</a> <a href="http://summit2016.upfront.com/" target="_blank">2</a> <a href="http://summit2015.upfront.com/" target="_blank">3</a> <a href="http://bothsidesofthetable.com" target="_blank">4</a>)
- - Built and managed email marketing campaigns and lists 
+A project I’ve been thinking about addresses a problem that I’ve faced with an aging parent who is home alone often, and a wife who exercises at night by herself. Typical alert bracelets are antiquated, target geriatrics, and require a monthly monitoring fee. 
 
-#### <a href="http://launchpad.la" target="_blank">Launchpad LA</a>
-Director of Operations (January 2012 - October 2013)
+Solution: A wearable device that senses falls, and allows user to press a button to send a pre-defined text to family / friends.
 
-- First hire – helped launch and run the top startup accelerator in Southern California
-- Conducted diligence on early stage technology companies
-- Developed processes to efficiently manage mentors, investors, and company dealflow. Dealflow process detailed <a href="https://zapier.com/blog/applicant-tracking-system/" target="_blank">here</a> 
-- Recruited and managed technical and MBA associates
+To make a quick MVP of the core button feature, I am using [Flic](flic.io), a button that pairs via Bluetooth to an android or ios device and connects with many internet services. I was going to CAD model a watch strap backing for Flic so it could be worn as a watch, but discovered [Shapeways](http://shpws.me/LeuU) already had one! I bought a cheap watch strap from [Amazon](https://www.amazon.com/gp/product/B017CK4PAQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1), and now I have an MVP!
 
-#### <a href="http://syska.com" target="_blank">Syska Hennessy Group</a>
-Mechanical Engineer (April 2011 – January 2012)
-
-- Green building design and building load analysis using computer aided design platforms and computational fluid dynamics
-
-#### <a href="http://mscsoftware.com" target="_blank">MSC Software</a>
-Engineering Intern (June 2009 – April 2011)
-
-- Finite element modeling in Patran and SimXpert, finite element analysis in Nastran and Marc
-- Developed new product walkthroughs and literature implemented in workshops and classes around the world
-
-## Education
-
-#### University of California, Irvine
-- Bachelor of Science, Mechanical Engineering
-- Minor, Biomedical Engineering
-
-## Projects / Freelance / Hobbies
-- Designed / PM'd a Pinterest Keyboard. Submitting to App Store soon (<a href="https://quip.com/wBAaA8msyPoN" target="_blank">Spec</a> / <a href="https://scene.zeplin.io/project/56d88a9e32057a3d4cde4666" target="_blank">Design</a>)
-- Facebook app marketing for <a href="http://vid.me" target="_blank">Vidme</a>
-	- <a href="https://www.dropbox.com/s/nfa9mv8ocof6q8x/Screenshot%202016-03-14%2010.54.40.png?dl=0" target="_blank">A/B testing</a> against creative, audience, interests, device
-	- <a href="https://www.dropbox.com/s/tzvbh0e07j2br87/Screenshot%202016-03-14%2010.47.35.png?dl=0" target="_blank">Reduced CPI</a> from a $3-$4 to ~$1 over course of 2 months 
-- My favorite <a href="https://www.strava.com/activities/369745043" target="_blank">bike ride</a>
-- My favorite <a href="https://www.youtube.com/watch?v=NmQfhkGPrM8" target="_blank">goal</a>
+Since I’m assuming you don’t have a Flic lying around the office, here’s a video of it in action.
