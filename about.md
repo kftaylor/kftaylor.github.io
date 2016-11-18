@@ -45,8 +45,12 @@ I decided with our COO not to renew based on a few factors I uncovered:
 
 ## Optional B
 
-I worked with our portfolio company Vidme earlier this year to optimize their Facebook app install marketing campaign. 
+I worked with our portfolio company [Vidme](http://vid.me){:target="_blank"} earlier this year to optimize their Facebook app install marketing campaign.
 
-*   I [optimized](https://www.dropbox.com/s/tzvbh0e07j2br87/Screenshot%202016-03-14%2010.47.35.png?dl=0) audience targeting, copy, and creative to lower CPI.   
+*   I [optimized](https://www.dropbox.com/s/tzvbh0e07j2br87/Screenshot%202016-03-14%2010.47.35.png?dl=0){:target="_blank"} audience targeting, copy, and creative to lower CPI.
+*   After acquiring users more cheaply, needed to determine whether these users were sticking. After analyzing retention and cohorts, I discovered that while MAUs were growing, [DAUs were staying flat](https://www.dropbox.com/s/i1q1yr0nquqtxyl/Screenshot%202016-11-17%2022.33.51.png?dl=0){:target="_blank"}. I inferred from this that the product was not sticky enough and users were not coming back.
+*   I recommended we either stop this marketing spend or test different first time user experiences to see if we could make an improvement.
 
-*   After acquiring users more cheaply, needed to determine whether these users were sticking. After analyzing retention and cohorts, I discovered that while MAUs were growing, [DAUs were staying flat](https://www.dropbox.com/s/i1q1yr0nquqtxyl/Screenshot%202016-11-17%2022.33.51.png?dl=0). This meant to me that the product was not sticky enough and users were not coming back.
+**Pros**: I recognized that what appeared to be growth was not scalable and marketing dollars was not achieving goal of acquiring recurring users.
+
+**Cons**: By shutting off spend, "growth" stopped, and vanity metrics such as uniques and MAUs shrunk.
