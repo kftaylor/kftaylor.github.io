@@ -45,4 +45,8 @@ I decided with our COO not to renew based on a few factors I uncovered:
 
 ## Optional B
 
-Facebook marketing
+I worked with our portfolio company Vidme earlier this year to optimize their Facebook app install marketing campaign. 
+
+*   I [optimized](https://www.dropbox.com/s/tzvbh0e07j2br87/Screenshot%202016-03-14%2010.47.35.png?dl=0) audience targeting, copy, and creative to lower CPI.   
+
+*   After acquiring users more cheaply, needed to determine whether these users were sticking. After analyzing retention and cohorts, I discovered that while MAUs were growing, [DAUs were staying flat](https://www.dropbox.com/s/i1q1yr0nquqtxyl/Screenshot%202016-11-17%2022.33.51.png?dl=0). This meant to me that the product was not sticky enough and users were not coming back.
