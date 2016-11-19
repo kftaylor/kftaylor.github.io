@@ -8,6 +8,8 @@ permalink: "/q/"
 1.  [Click Flic button](https://ifttt.com/applets/44303349d-if-you-click-flic-then-share-location-in-sms){:target="_blank"} - sends text with location
 2.  [Hold Flic button](https://ifttt.com/applets/44350944d-if-you-hold-flic-then-send-an-alert-sms-with-location){:target="_blank"} - sends alert text with location
 
+![]({{ site.baseurl }}/forestryio/images/Screenshot%202016-11-19%2009.52.15.png)
+
 ### Description
 
 A project I’ve been thinking about addresses a problem that I’ve faced with an aging parent who is home alone often and a wife who exercises at night by herself. Typical alert bracelets are antiquated, target geriatrics, and require a monthly monitoring fee.
