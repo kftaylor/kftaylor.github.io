@@ -8,6 +8,8 @@ permalink: "/q/"
 1.  [Click Flic button](https://ifttt.com/applets/44303349d-if-you-click-flic-then-share-location-in-sms){:target="_blank"} - sends text with location
 2.  [Hold Flic button](https://ifttt.com/applets/44350944d-if-you-hold-flic-then-send-an-alert-sms-with-location){:target="_blank"} - sends alert text with location
 
+It appears that the 11/2/16 IFTTT update to "applets" no longer allows users to share recipes freely. I've included a video below to show functionality.
+
 ![]({{ site.baseurl }}/forestryio/images/Screenshot%202016-11-19%2009.52.15.png)
 
 ### Description
