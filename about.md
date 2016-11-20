@@ -8,7 +8,7 @@ permalink: "/q/"
 1.  [Click Flic button](https://ifttt.com/applets/44303349d-if-you-click-flic-then-share-location-in-sms){:target="_blank"} - sends text with location
 2.  [Hold Flic button](https://ifttt.com/applets/44350944d-if-you-hold-flic-then-send-an-alert-sms-with-location){:target="_blank"} - sends alert text with location
 
-It appears that the 11/2/16 IFTTT update to "applets" no longer allows users to share recipes freely. I've included a video below to show functionality.
+It appears that the 11/2/16 IFTTT update to no longer allows users to share recipes freely. I've included a video below to show functionality.
 
 ![]({{ site.baseurl }}/forestryio/images/Screenshot%202016-11-19%2009.52.15.png)
 
@@ -22,7 +22,7 @@ To make a quick MVP of the core press-button feature, I used [Flic](http://flic
 
 ![]({{ site.baseurl }}/forestryio/images/flic%20band-1.jpg)
 
-Since I’m assuming you don’t have a Flic lying around the office, here’s a video of it in action.
+Since I’m assuming there isn't a Flic around the office, here’s a video of the IFTTT recipe in action.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w5eTW8uoWOs?rel=0" frameborder="0" allowfullscreen=""></iframe>
 
