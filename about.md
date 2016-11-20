@@ -24,6 +24,8 @@ To make a quick MVP of the core press-button feature, I used [Flic](http://flic
 
 Since I’m assuming you don’t have a Flic lying around the office, here’s a video of it in action.
 
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/w5eTW8uoWOs" frameborder="0" allowfullscreen=""></iframe>
+
 ## 2\. Pinterest Keyboard App 📌
 
 This is a project I worked on earlier this year. I shipped to the [App Store](http://pinkyapp.com){:target="_blank"} in June. I led all aspects of writing requirements and wireframing. I then worked with a designer to polish and a developer to build.
