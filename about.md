@@ -24,7 +24,7 @@ To make a quick MVP of the core press-button feature, I used [Flic](http://flic
 
 Since I’m assuming you don’t have a Flic lying around the office, here’s a video of it in action.
 
-<iframe width="auto" height="auto" src="https://www.youtube.com/embed/w5eTW8uoWOs" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5eTW8uoWOs?rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 ## 2\. Pinterest Keyboard App 📌
 
