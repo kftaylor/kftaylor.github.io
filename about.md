@@ -24,7 +24,7 @@ To make a quick MVP of the core press-button feature, I used [Flic](http://flic
 
 Since I’m assuming there isn't a Flic around the office, here’s a video of the IFTTT recipe in action.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w5eTW8uoWOs?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omIZaujT7PE?rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 ## 2\. Pinterest Keyboard App 📌
 
